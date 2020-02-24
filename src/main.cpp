@@ -13,7 +13,7 @@ v1.0 2/6/2020
 
 //========================================================================
 int main( ){
-	
+	// changed the window to 600x600 since that's all I need to do my heatmap
 	ofSetupOpenGL(600,600,OF_WINDOW);			// <-------- setup the GL context
 
 	// this kicks off the running of my app
